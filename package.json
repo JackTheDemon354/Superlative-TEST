@@ -11,7 +11,7 @@
 "next": "14.0.0",
 "react": "18.2.0",
 "react-dom": "18.2.0",
-"@auth/core": "^1.11.0",
+"@auth/core": "^0.34.0",
 "@auth/nextjs": "^1.11.0",
 "@next-auth/providers": "^1.11.0",
 "tailwindcss": "^3.5.0",
