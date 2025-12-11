@@ -1,21 +1,13 @@
 {
-"name": "superlative-games",
-"version": "1.0.0",
-"private": true,
-"scripts": {
-"dev": "next dev",
-"build": "next build",
-"start": "next start"
-},
-"dependencies": {
-"next": "14.0.0",
-"react": "18.2.0",
-"react-dom": "18.2.0",
-"@auth/core": "^0.34.0",
-"@auth/nextjs": "^1.11.0",
-"@next-auth/providers": "^1.11.0",
-"tailwindcss": "^3.5.0",
-"autoprefixer": "^10.4.0",
-"postcss": "^8.4.0"
-}
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "next-auth": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
 }
